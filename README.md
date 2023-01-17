@@ -3,6 +3,8 @@
 [Admin Dashboard Template](https://www.tailwindtoolbox.com/templates/admin-template) is an open source, admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Admin Template](https://www.tailwindtoolbox.com/templates/admin-template.png)
+![Admin Template](https://www.tailwindtoolbox.com/templates/admin-template.png)
+
 
 ## Getting Started
 
